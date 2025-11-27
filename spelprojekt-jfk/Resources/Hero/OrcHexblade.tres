@@ -5,6 +5,6 @@
 [resource]
 script = ExtResource("1_x5tnt")
 name = "OrcHexblade"
-baseHP = 24.0
-baseDamage = 2.0
+baseHP = 2
+baseDamage = 24
 metadata/_custom_type_script = "uid://cg6we33ta62qy"
