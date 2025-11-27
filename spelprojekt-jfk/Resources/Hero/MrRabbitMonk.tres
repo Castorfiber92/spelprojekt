@@ -5,6 +5,6 @@
 [resource]
 script = ExtResource("1_ai3un")
 name = "MrRabbitMonk"
-baseHP = 20
-baseDamage = 5
+baseHP = 20.0
+baseDamage = 5.0
 metadata/_custom_type_script = "uid://cg6we33ta62qy"

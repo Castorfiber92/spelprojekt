@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="HeroData" load_steps=2 format=3 uid="uid://ba7wbajtj6qrc"]
-
-[ext_resource type="Script" uid="uid://cg6we33ta62qy" path="res://Scripts/Heroes/HeroData.gd" id="1_q4fso"]
-
-[resource]
-script = ExtResource("1_q4fso")
-baseHP = 20
-baseDamage = 6
-metadata/_custom_type_script = "uid://cg6we33ta62qy"
